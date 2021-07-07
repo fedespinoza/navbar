@@ -10,6 +10,7 @@ body{
     white-space: normal;
     overflow: hidden;
     margin-right: -0.26em;
+    margin-bottom: -0.26em;
 }
 
 .contenedor-nav{
@@ -19,6 +20,7 @@ body{
     display: inline-block;
     white-space: normal;
     overflow: hidden;
+    margin-bottom: -0.26em;
 } 
 
 img.logo{
@@ -52,7 +54,7 @@ a:hover{
 
 header img{
     width:100vw;
-    height:100vh;
+    height:92vh;
     margin: 0;
     padding: 0;
     overflow: hidden;
